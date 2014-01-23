@@ -1,0 +1,14 @@
+author: Ar7ific1al
+description: Break those combos!
+main: com.github.ar7ific1al.combobreaker.Plugin
+name: ComboBreaker
+url: 
+version: 0.1
+commands:
+    combobreaker:
+      description: ComboBreaker information
+      usage: /<command>
+permissions:
+    combobreaker.admin:
+        description: Admin command access
+        default: op
